@@ -1,0 +1,85 @@
+[
+
+    {
+        "name":"Shakib Al Hasan",
+        "born": "March 24, 1987 (age 34 years), Magura District",
+        "height":"1.75 m",
+        "salary": 45000,
+        "stats": "All-rounder",
+        "picture":"https://i.ibb.co/sHnwX3R/shakib-al-hasan.jpg"
+
+    },
+    {
+         "name":"Mashrafe Mortaza",
+         "born":"October 5, 1981 (age 39 years), Narail District",
+         "height":"1.85 m",
+         "salary": 50000,
+         "stats":"Bowler",
+         "picture":"https://i.ibb.co/PZM4RCZ/mashrafe-mortaza.webp"
+    },
+    {
+        "name":"Mushfiqur Rahim",
+        "born":"May 9, 1987 (age 34 years), Bogura",
+        "height":"1.6 m",
+        "salary":44000,
+        "stats":"Wicketkeeper",
+        "picture":"https://i.ibb.co/f11sNcs/mushfiqur-rahim.jpg"
+    },
+    {
+        "name":"Mahmudullah",
+        "born":"February 4, 1986 (age 35 years), Mymensingh",
+        "height":"1.8 m",
+        "salary":41000,
+        "stats":"All-rounder",
+        "picture":"https://i.ibb.co/N64QnNr/mahmudullah.jpg"
+    },
+    {
+        "name":"Tamim Iqbal",
+        "born":"March 20, 1989 (age 32 years), Chattogram",
+        "height":"1.75 m",
+        "salary":45000,
+        "stats":"Batsman",
+        "picture":"https://i.ibb.co/BZrYwnN/tamim-iqbal.png"
+    },
+    {
+        "name":"Sabbir Rahman",
+        "born":"November 22, 1991 (age 29 years), Rajshahi",
+        "height":"1.6m",
+        "salary":31000,
+        "stats":"Batsman",
+        "picture":"https://i.ibb.co/4sCmn6T/sabbir-rahman.jpg"
+    },
+    {
+        "name":"Rubel Hossain",
+        "born":"January 1, 1990 (age 31 years), Bagerhat",
+        "height":"1.8 m",
+        "salary":30000,
+        "stats":"Bowler",
+        "picture":"https://i.ibb.co/99SQ1xM/CARDIFF-WALES-MAY-25-Rubel-Hossain-of-Bangladesh-poses-for-a-portrait-prior-to-the-ICC-Cricket-World.jpg"
+    },
+    {
+        "name":"Nasir Hossain",
+        "born":"November 30, 1991 (age 29 years), Rangpur",
+        "height":"1.75 m",
+        "salary":33000,
+        "stats":"All-rounder",
+        "picture":"https://i.ibb.co/M98q1gV/nasir.jpg"
+    },
+    {
+        "name":"Mustafizur Rahman",
+        "born":"September 6, 1995 (age 25 years), Satkhira District",
+        "height":"1.8 m",
+        "salary":45000,
+        "stats":"Bowler",
+        "picture":"https://i.ibb.co/wRBntbq/mustafizur-rahman.jpg"
+    },
+    {
+        "name":"Liton Das",
+        "born":"February 16, 1994 (age 27 years), Dinajpur",
+        "height":"1.7m",
+        "salary":42000,
+        "stats":"Wicketkeeper",
+        "picture":"https://i.ibb.co/pXbH9hN/liton-das.jpg"
+    }
+    
+]
